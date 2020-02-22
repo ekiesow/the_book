@@ -1,1 +1,6 @@
-## Chapter 2: Programming a Guessing Game
+## Chapter 3: Common Programming Concepts
+- Variables and Mutability
+- Data Types
+- Functions
+- Comments
+- Control Flow 
