@@ -25,8 +25,11 @@ fn main() {
         println!("number is not divisible by 4, 3, or 2");
     }
 
-    // because if is an expression, we can use it
-    // on the right side of a let satement
+    /*
+     * Because if is an expression, we can use it on the right side
+     * of a let satement and numbers are expression themselves.
+     * Both arms of the if must be the same type!
+     */
     let condition = true;
     let number = if condition { 5 } else { 6 };
 
