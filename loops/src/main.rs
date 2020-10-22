@@ -8,6 +8,8 @@ fn main() {
     }
     */
 
+    // use the break keyword to tell the program when to exit a loop
+
     /* Returning Values from Loops */
 
     let mut counter = 0;
@@ -57,9 +59,10 @@ fn main() {
      * code to perform the conditional check on every element on every
      * iteration through the loop
      */
-    println!("print array with while");
     let a = [3, 5, 9, 11, 13];
     let mut index = 0;
+
+    println!("print array with while");
     while index < 5 {
         println!("the value is: {}", a[index]);
         index += 1;
