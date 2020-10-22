@@ -2,7 +2,7 @@ fn main() {
     let number = 7;
 
     // blocks of code in if expressions are sometimes called arms
-    // if number {     will fail, must have bool condition
+    // if number {...} will fail, must have bool condition
     if number < 5 {
         println!("condition was true!");
     } else {
