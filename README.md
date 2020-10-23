@@ -13,3 +13,8 @@
 - Functions
 - Comments
 - Control Flow 
+
+## Chapter 4: Ownership
+- Ownership
+- References and Borrowing
+- Slices
