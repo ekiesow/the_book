@@ -28,3 +28,9 @@
 - Defining and Instantiating Structs
 - An Example Program Using Structs
 - Method Syntax
+
+## Chapter 6: Enums and Pattern Matching
+
+- Defining an Enum
+- The match Control Flow Operator
+- Concise Control Flow with if let
