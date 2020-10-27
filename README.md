@@ -34,3 +34,11 @@
 - Defining an Enum
 - The match Control Flow Operator
 - Concise Control Flow with if let
+
+## Chapter 7: Managing Growing Projects with Packages, Crates, and Modules
+
+- Packages and Crates
+- Defining Modules to Control Scope and Privacy
+- Paths for Referring to an Item in the Module Tree
+- Bringing Paths Into Scope with the use Keyword
+- Separating Modules Into Different Files
